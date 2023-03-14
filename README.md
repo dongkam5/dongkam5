@@ -25,8 +25,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkam5&layout=compact) <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dongkam5&show_icons=true"> 
+![Top Langs](https://github-readme-stats-3olraja3x-dongkam5.vercel.app) <br><br>
+<img src="https://github-readme-stats-3olraja3x-dongkam5.vercel.app> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongkam123)](https://solved.ac/dongkam123/)
 

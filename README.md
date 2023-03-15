@@ -26,10 +26,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats-dongkam5.vercel.app/api?username=dongkam5)
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkam5)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkam5&layout='compact')
 
  <br>
  

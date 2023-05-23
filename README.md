@@ -6,7 +6,7 @@
  
 <br>  
 
-### ✏️기술스택✏️
+### ✏️
 
 #### PLATFORM & LANGUAGE
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>

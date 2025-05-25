@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=POSTGRESQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=POSTGRESQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
